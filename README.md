@@ -11,9 +11,12 @@ customers and should be aware of the aspects that matter and impact the experien
 
 The goals for this project:
 - Gain insights into the data by exploring key features and visualizing patterns.
-- Understand which features are impacting the overall satisfaction scores the most
+- Understand which features are impacting the overall satisfaction scores the most.
 - Generate insights into the typical profile of a satisfied customer, which can help airlines target improvements toward underrepresented or dissatisfied groups.
-- Find the best machine learning model for predicting whether a customer is satisfied or not based on various attributes 
+- Find the best machine learning model for predicting whether a customer is satisfied or not based on various attributes.
 
 The repository contains 3 jupyter notebook files. The code in the files aims to accomplish the goals that we set for this project.
+- The goal1.ipynb is used to gain insights into the data by exploring key features and visualizing patterns.
+- The goal2.ipynb is used to understand which features are impacting the overall satisfaction scores the most
+- The goal3-4.ipynb is used to generate insights into the typical profile of a satisfied customer and to find the best machine learning model for predicting whether a customer is satisfied or not based on various attributes
 To replicate what the authors have done, you have to run the 3 jupyter notebook files.
