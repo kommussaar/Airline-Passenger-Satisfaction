@@ -21,3 +21,4 @@ The repository contains 3 jupyter notebook files. The code in the files aims to 
 - The goal3-4.ipynb is used to generate insights into the typical profile of a satisfied customer and to find the best machine learning model for predicting whether a customer is satisfied or not based on various attributes
 
 To replicate what the authors have done, you have to run the 3 jupyter notebook files.
+Data for the project is from [https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2&pageSize=20 Airline Passenger Satisfaction](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Airline%20Passenger%20Satisfaction)
