@@ -19,4 +19,5 @@ The repository contains 3 jupyter notebook files. The code in the files aims to 
 - The goal1.ipynb is used to gain insights into the data by exploring key features and visualizing patterns.
 - The goal2.ipynb is used to understand which features are impacting the overall satisfaction scores the most
 - The goal3-4.ipynb is used to generate insights into the typical profile of a satisfied customer and to find the best machine learning model for predicting whether a customer is satisfied or not based on various attributes
+
 To replicate what the authors have done, you have to run the 3 jupyter notebook files.
